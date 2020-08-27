@@ -1,0 +1,3 @@
+
+testPrimeNumberList=true
+testIsPrime=true
